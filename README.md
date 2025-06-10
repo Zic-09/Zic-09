@@ -17,7 +17,7 @@ I’m currently enrolled in the **Meta Database Engineering** program to deepen 
 - 🤝 Tech communities focused on growth and impact
 
 ## ⚙️ Tools & Tech
-SQL · Python · Power BI · Snowflake · Excel · Git · Jupyter Notebooks · Data Modeling · ETL Pipelines
+`SQL` · `Python` · `Power BI` · `MySQL` · `Snowflake` · `Excel` · `Tableau` · `Git` · `Jupyter Notebooks` · `Data Modeling` · `ETL Pipelines`
 
 ## 📫 Reach Me
 - X (Twitter): [@Zic_1309](https://x.com/Zic_1309/)  

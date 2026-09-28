@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Toluwanimi Oke
 
-**Data Analyst** | **AI Explorer** | **Digital Transformation Enthusiast** I transform raw data into scalable solutions and actionable insights, and I'm passionate about helping people & businesses grow with **Data**, **AI**, and **Startegy**.
+**Data & Business Intelligence Analyst** | **KPI & Performance Analytics** | Python | SQL | Power BI | AI & Automation | Dashboard Development | **Turning Data into Real Time Solutions**
 
 ## 👀 About Me
-- Experienced in **SQL, Python, Excel, Power BI** for data analysis & reporting.  
-- Natural **Teacher, Coach, and Mentor**.
-- Exploring how **AI tools** can transform data workflows and business decision-making.
-- Interested in projects that connect **Data, Technology, and Impact**.
+- 🔍 I enjoy solving real business problems across areas like Operations, Supply Chain, Inventory, Product, and Business Performance..  
+- 🚀 I believe good analytics goes beyond dashboards — it's about asking the right business questions, finding meaningful insights, and turning those insights into action..
+- 🤖 I'm exploring AI + Data, using AI tools to improve analysis, research, automation, documentation, and decision-making..
+- 🌍 I'm interested in projects where Data + Technology + Business + Impact come together to solve meaningful real-world problems..
 
 ## 💞️ Open to Collaborate On:
-- 📊 Data analytics or database engineering projects  
+- 📊 Data analytics projects  
 - 📚 Educational or content-based tech initiatives  
 - 🤝 Tech communities focused on growth and impact
 

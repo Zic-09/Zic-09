@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Toluwanimi Oke
 
-**Data & Business Intelligence Analyst** | **KPI & Performance Analytics** | Python | SQL | Power BI | AI & Automation | Dashboard Development | **Turning Data into Real Time Solutions**
+**Supply Chain Data & Business Intelligence Analyst** | **KPI & Performance Analytics** | Python | SQL | Power BI | AI & Automation | Dashboard Development | **Turning Data into Real Time Solutions**
 
 ## 👀 About Me
 - 🔍 I enjoy solving real business problems across areas like Operations, Supply Chain, Inventory, Product, and Business Performance..  
-- 🚀 I believe good analytics goes beyond dashboards — it's about asking the right business questions, finding meaningful insights, and turning those insights into action..
+- 🚀 I believe good analytics goes beyond dashboards. It's about asking the right business questions, finding meaningful insights, and turning those insights into action..
 - 🤖 I'm exploring AI + Data, using AI tools to improve analysis, research, automation, documentation, and decision-making..
 - 🌍 I'm interested in projects where Data + Technology + Business + Impact come together to solve meaningful real-world problems..
 
